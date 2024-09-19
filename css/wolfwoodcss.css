@@ -1,6 +1,6 @@
 body {
     font-family: Helvetica;
-    background: linear-gradient(to bottom, skyblue, gray);
+    background: linear-gradient(to top, skyblue, gray);
     color: whitesmoke;
 }
 h1, h2, h3{
@@ -18,4 +18,7 @@ header{
 #weapon{
     float: right;
     border-radius: 0 60px 0 60px;
+}
+#trivia{
+    clear: right;
 }
