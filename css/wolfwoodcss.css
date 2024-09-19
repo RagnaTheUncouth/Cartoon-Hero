@@ -1,0 +1,16 @@
+body {
+    font-family: Helvetica;
+    background: linear-gradient(to right, skyblue, gray);
+    color: whitesmoke;
+}
+h1, h2, h3{
+    font-style: italic;
+    font-size: 15px;
+}
+header{
+    text-align: center;
+}
+#avatar{
+    width: 300px;
+    border-radius: 150px;
+}
