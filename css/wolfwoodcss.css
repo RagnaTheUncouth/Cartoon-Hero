@@ -1,6 +1,6 @@
 body {
     font-family: Helvetica;
-    background: linear-gradient(to right, skyblue, gray);
+    background: linear-gradient(to bottom, skyblue, gray);
     color: whitesmoke;
 }
 h1, h2, h3{
@@ -11,6 +11,11 @@ header{
     text-align: center;
 }
 #avatar{
+    height: 300px;
     width: 300px;
     border-radius: 150px;
+}
+#weapon{
+    float: right;
+    border-radius: 0 60px 0 60px;
 }
