@@ -29,12 +29,12 @@ header{
     width: 500px;
 }
 #fullBody{
-    float: right;
-    border-radius: 0 60px 0 60px;
-    margin: 0 0 15px 20px;
+    float: left;
+    border-radius: 60px 0 60px 0;
+    margin: 0 15px 20px 0;
     height: 300px;
-    width: 225px;
+    width: 275px;
 }
 #personality{
-    clear: right;
+    clear: left;
 }
